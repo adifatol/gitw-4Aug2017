@@ -7,8 +7,5 @@ modified by Szilard Toth
 
 Andras
 
-
-commit nr 2
-
-
-commit nr 3
+Szarvadi Levente
+age = 21
